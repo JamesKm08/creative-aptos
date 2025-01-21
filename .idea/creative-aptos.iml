@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/build-&amp;-test/ToDo/contract/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build-&amp;-test/improper-access-control/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build-&amp;-test/simple-token/contract/build" />
+      <excludeFolder url="file://$MODULE_DIR$/claude-ctfs/insecure-vault/contract/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build-&amp;-test/access-control/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build-&amp;-test/access-control/contract/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build-&amp;-test/improper-access-control/contract/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

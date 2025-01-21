@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="985c39cb-e0eb-4584-bb66-094d52798c30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../claude-ctfs/insecure-vault/contract/sources/insecure_vault.move" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testings/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testings/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testings/contract/Move.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testings/contract/sources/message_board.move" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testings/contract/tests/test_end_to_end.move" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testings/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testings/scripts/move/compile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testings/scripts/move/publish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testings/scripts/move/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testings/scripts/move/upgrade.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>

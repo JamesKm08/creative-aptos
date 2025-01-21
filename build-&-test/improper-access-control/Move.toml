@@ -1,0 +1,12 @@
+[package]
+name = "insecure_transaction"
+version = "1.0.0"
+authors = []
+
+[addresses]
+improper_access_control = "0xe32054e4b36b4802b7ffccacb1844b159f112dff9ffc8260585bb10c9cae969e"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "mainnet", subdir = "aptos-move/framework/aptos-framework" }
+
+[dev-dependencies]
