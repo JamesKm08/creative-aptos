@@ -1,0 +1,12 @@
+[package]
+name = "insecure_vault"
+version = "1.0.0"
+authors = []
+
+[addresses]
+insecure_vault_addr = "0x4ca9582ee17b2cd14c2c5ba60c3d407ddc6bcbce54632d96fa8362ac65553413"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "mainnet", subdir = "aptos-move/framework/aptos-framework" }
+
+[dev-dependencies]
