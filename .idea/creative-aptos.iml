@@ -10,6 +10,9 @@
       <excludeFolder url="file://$MODULE_DIR$/build-&amp;-test/access-control/build" />
       <excludeFolder url="file://$MODULE_DIR$/build-&amp;-test/access-control/contract/build" />
       <excludeFolder url="file://$MODULE_DIR$/build-&amp;-test/improper-access-control/contract/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build-break-test/ToDo/contract/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build-break-test/improper-access-control/build" />
+      <excludeFolder url="file://$MODULE_DIR$/build-break-test/simple-token/contract/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

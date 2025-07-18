@@ -5,17 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="985c39cb-e0eb-4584-bb66-094d52798c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../claude-ctfs/insecure-vault/contract/sources/insecure_vault.move" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testings/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testings/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testings/contract/Move.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testings/contract/sources/message_board.move" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testings/contract/tests/test_end_to_end.move" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testings/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testings/scripts/move/compile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testings/scripts/move/publish.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testings/scripts/move/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testings/scripts/move/upgrade.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/creative-aptos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/creative-aptos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/contract/Move.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/contract/sources/ToDo.move" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/contract/tests/test_end_to_end.move" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/scripts/move/compile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/scripts/move/publish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/scripts/move/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToDo/scripts/move/upgrade.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-token/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-token/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-token/contract/Move.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-token/contract/sources/message_board.move" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-token/contract/tests/test_end_to_end.move" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-token/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-token/scripts/move/compile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-token/scripts/move/publish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-token/scripts/move/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-token/scripts/move/upgrade.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +35,93 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/improper-access-control" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "git-widget-placeholder": "main"
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2yu7fQPqLQehgkesQmikzdRSUJu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Aptos.Test insecure_transaction::test_access_control (1).executor&quot;: &quot;Run&quot;,
+    &quot;Aptos.Test insecure_transaction::test_access_control (2).executor&quot;: &quot;Run&quot;,
+    &quot;Aptos.Test insecure_transaction::test_access_control (3).executor&quot;: &quot;Run&quot;,
+    &quot;Aptos.Test insecure_transaction::test_access_control (4).executor&quot;: &quot;Run&quot;,
+    &quot;Aptos.Test insecure_transaction::test_access_control (5).executor&quot;: &quot;Run&quot;,
+    &quot;Aptos.Test insecure_transaction::test_access_control.executor&quot;: &quot;Run&quot;,
+    &quot;Aptos.Test insecure_transaction::test_vault_operations (1).executor&quot;: &quot;Run&quot;,
+    &quot;Aptos.Test insecure_transaction::test_vault_operations (2).executor&quot;: &quot;Run&quot;,
+    &quot;Aptos.Test insecure_transaction::test_vault_operations (3).executor&quot;: &quot;Run&quot;,
+    &quot;Aptos.Test insecure_transaction::test_vault_operations.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jim08/creative-aptos/build-break-test&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Aptos.Test insecure_transaction::test_vault_operations">
+    <configuration name="Test insecure_transaction::test_access_control (1)" type="AptosCommandConfiguration" factoryName="AnyCommand" temporary="true">
+      <option name="command" value="move test --filter insecure_transaction::test_access_control --skip-fetch-latest-git-deps" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/improper-access-control" />
+      <envs>
+        <env name="APTOS_DISABLE_TELEMETRY" value="true" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test insecure_transaction::test_access_control (2)" type="AptosCommandConfiguration" factoryName="AnyCommand" temporary="true">
+      <option name="command" value="move test --filter insecure_transaction::test_access_control --skip-fetch-latest-git-deps" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/improper-access-control" />
+      <envs>
+        <env name="APTOS_DISABLE_TELEMETRY" value="true" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test insecure_transaction::test_access_control (5)" type="AptosCommandConfiguration" factoryName="AnyCommand" temporary="true">
+      <option name="command" value="move test --filter insecure_transaction::test_access_control --skip-fetch-latest-git-deps" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/improper-access-control" />
+      <envs>
+        <env name="APTOS_DISABLE_TELEMETRY" value="true" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test insecure_transaction::test_access_control" type="AptosCommandConfiguration" factoryName="AnyCommand" temporary="true">
+      <option name="command" value="move test --filter insecure_transaction::test_access_control --skip-fetch-latest-git-deps" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/improper-access-control" />
+      <envs>
+        <env name="APTOS_DISABLE_TELEMETRY" value="true" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test insecure_transaction::test_vault_operations" type="AptosCommandConfiguration" factoryName="AnyCommand" temporary="true">
+      <option name="command" value="move test --filter insecure_transaction::test_vault_operations --skip-fetch-latest-git-deps" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/improper-access-control" />
+      <envs>
+        <env name="APTOS_DISABLE_TELEMETRY" value="true" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Aptos.Test insecure_transaction::test_vault_operations" />
+        <item itemvalue="Aptos.Test insecure_transaction::test_access_control (5)" />
+        <item itemvalue="Aptos.Test insecure_transaction::test_access_control (2)" />
+        <item itemvalue="Aptos.Test insecure_transaction::test_access_control (1)" />
+        <item itemvalue="Aptos.Test insecure_transaction::test_access_control" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="985c39cb-e0eb-4584-bb66-094d52798c30" name="Changes" comment="" />
+      <created>1750672706618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750672706618</updated>
+    </task>
     <servers />
   </component>
 </project>

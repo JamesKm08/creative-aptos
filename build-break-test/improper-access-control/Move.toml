@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-improper_access_control = "0xe32054e4b36b4802b7ffccacb1844b159f112dff9ffc8260585bb10c9cae969e"
+improper_access_control = "0x6f6a7cf03a0cb3b298da819f1e7821e76a80d9805ebb77e1c1ff4bd58bb55388"
 
 [dependencies]
 AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "mainnet", subdir = "aptos-move/framework/aptos-framework" }

@@ -1,6 +1,6 @@
 # Only Contract Template
 
-This template provides a starting point for a dapp with all necessary infrastructure and implements a simple on-chain message board functionality.
+
 
 ## Read the Boilerplate Template Documentation
 
