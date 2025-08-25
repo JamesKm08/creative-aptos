@@ -4,14 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="985c39cb-e0eb-4584-bb66-094d52798c30" name="Changes" comment="" />
+    <list default="true" id="985c39cb-e0eb-4584-bb66-094d52798c30" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/build-break-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/build-break-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Move File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/improper-access-control" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -35,8 +45,8 @@
     &quot;Aptos.Test insecure_transaction::test_vault_operations.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jim08/creative-aptos/build-break-test&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jim08/aptos-aave-v3&quot;
   }
 }</component>
   <component name="RunManager" selected="Aptos.Test insecure_transaction::test_vault_operations">
@@ -78,6 +88,12 @@
       <envs>
         <env name="APTOS_DISABLE_TELEMETRY" value="true" />
       </envs>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="AptosCommandConfiguration" factoryName="AnyCommand">
+      <option name="command" value="" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/improper-access-control" />
+      <envs />
       <method v="2" />
     </configuration>
     <recent_temporary>
