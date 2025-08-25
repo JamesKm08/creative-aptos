@@ -1,0 +1,16 @@
+[package]
+name = "arithmetic_precision_error"
+version = "1.0.0"
+authors = []
+
+[addresses]
+address = "0x57c7c0880cd66a3e13cf299b77723a26fd10ca449aaf3bff7f4a864a58decc59"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
